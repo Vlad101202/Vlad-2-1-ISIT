@@ -1,0 +1,8 @@
+echo "# Vlad-2-1-ISIT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Vlad101202/Vlad-2-1-ISIT.git
+git push -u origin master
+                
