@@ -48,7 +48,7 @@ void AAA_print(listx::Element* e) // функция вывода ключа и значений
 //-------------------------------
 int main()
 {
-	cout << "Pull request" << endl;
+	cout << "Pull request" << endl;    //text here 
 	srand(NULL);
 	setlocale(LC_ALL, "rus");
 	int current_size = 7;
